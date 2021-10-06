@@ -1,2 +1,2 @@
 # Paterns
-all paterns 
+All pattern 
