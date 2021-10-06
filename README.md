@@ -1,2 +1,2 @@
 # Paterns
-All pattern 
+All pattern  in c language
